@@ -33,7 +33,7 @@ We welcome contributions to this project from anyone! If you'd like to contribut
 
 * If you have any questions or would like to get in touch with us about contributing to the project, please email us at [theophilusakugre22@gmail.com].
 <br>
-**License** <br>
+**License** 
 This project is licensed under the MIT license.
 
 The MIT license is a permissive open source license that allows users to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. However, it comes with no warranty and the authors or copyright holders are not liable for any damages.
